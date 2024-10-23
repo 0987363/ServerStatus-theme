@@ -1,0 +1,25 @@
+{
+    "routes": [
+        {
+            "src": "/report",
+            "dest": "https://monitor.h.coolhei.com/report"
+        },
+        {
+            "src": "/json/stats.json",
+            "dest": "https://monitor.h.coolhei.com/json/stats.json"
+        },
+        {
+            "src": "/detail",
+            "dest": "https://monitor.h.coolhei.com/detail"
+        },
+        {
+            "src": "/map",
+            "dest": "https://monitor.h.coolhei.com/map"
+        },
+        {
+            "src": "/i",
+            "dest": "https://monitor.h.coolhei.com/i"
+        }
+    ]
+}
+
